@@ -163,9 +163,17 @@ header a:hover {
   cursor: pointer;
 }
 
+.van-list-filter-buttons {
+  display: flex;
+  flex-wrap: wrap;
+}
+.van-list-filter-buttons > a {
+  margin-right: 15px;
+}
+
 .van-type {
   height: 34px;
-  color: #fff;
+  color: #4d4d4d;
   padding: 6px 26px;
   font-style: normal;
   font-weight: 500;
