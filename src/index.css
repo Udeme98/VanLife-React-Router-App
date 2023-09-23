@@ -197,7 +197,7 @@ header a:hover {
 .van-type:focus {
   outline: none;
 }
-.van-type:selected {
+.van-type.selected {
   color: #ffead0;
 }
 
@@ -427,4 +427,14 @@ footer {
 .host-van-detail-image {
   height: 100px;
   border-radius: 5px;
+}
+
+.not-found-container {
+  padding-inline: 26px;
+}
+.not-found-container .link-button {
+  width: 100%;
+  background-color: #161616;
+  color: white;
+  margin-top: 20px;
 }
