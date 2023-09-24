@@ -24,3 +24,5 @@ I learnt about the following concepts in React Router:
 16. NotFound Page (404)
 17. useSearvhParams() hook
 18. Link State
+19. uselocation() hook
+20. Happy path vs Sad path: Loading State/ Error Handling
