@@ -27,3 +27,4 @@ I learnt about the following concepts in React Router:
 19. uselocation() hook
 20. Happy path vs Sad path: Loading State/ Error Handling
 21. Data Layers APIs
+22. createBrowserRouter
