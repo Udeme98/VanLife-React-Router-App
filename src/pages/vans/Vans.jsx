@@ -2,6 +2,9 @@ import React, { useState, useEffect } from "react";
 import { Link, useSearchParams } from "react-router-dom";
 import { getVans } from "../../../api";
 
+export function loader() {
+  return <h1>Vans data goes here</h1>;
+}
 export default function Vans() {
   const [searchParams, setSearchParams] = useSearchParams();
   const [vans, setVans] = useState([]);
