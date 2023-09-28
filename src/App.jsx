@@ -2,7 +2,6 @@ import {
   RouterProvider,
   createBrowserRouter,
   createRoutesFromElements,
-  Routes,
   Route,
 } from "react-router-dom";
 import React from "react";
@@ -44,6 +43,7 @@ const router = createBrowserRouter(
     </Route>
   )
 );
+
 function App() {
   return <RouterProvider router={router} />;
 }
