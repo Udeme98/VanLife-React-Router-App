@@ -30,4 +30,4 @@ I learnt about the following concepts in React Router:
 22. createBrowserRouter
 23. createRoutesFromElements()
 24. useLoaderData() hook
-25. Handling errors with 'errorElement' prop and useRouteError() hook
+25. Handling errors with 'errorElement' prop and useRouteError() hook.
