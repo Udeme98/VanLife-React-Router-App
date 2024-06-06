@@ -18,9 +18,9 @@ I learnt about the following concepts in React Router:
 10. Layout Route
 11. Index Route
 12. Links
-13. NavLinks - To indicate links/page
-14. Outlet component
-15. useOutletContext()
+13. NavLinks - To indicate links/page.
+14. Outlet component.
+15. useOutletContext().
 16. NotFound (404) Page.
 17. useSearvhParams() hook.
 18. Link State.
