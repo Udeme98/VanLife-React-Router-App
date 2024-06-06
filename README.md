@@ -24,9 +24,9 @@ I learnt about the following concepts in React Router:
 16. NotFound (404) Page
 17. useSearvhParams() hook
 18. Link State
-19. uselocation() hook
-20. Happy path vs Sad path: Loading State/ Error Handling
-21. Data Layers APIs
+19. uselocation() hook.
+20. Happy path vs Sad path: Loading State/ Error Handling.
+21. Data Layers APIs.
 22. createBrowserRouter.
 23. createRoutesFromElements()
 24. useLoaderData() hook.
